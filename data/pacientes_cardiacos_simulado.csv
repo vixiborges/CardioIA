@@ -1,0 +1,251 @@
+id_paciente,idade,sexo,pressao_sistolica_mmHg,pressao_diastolica_mmHg,colesterol_total_mgdl,colesterol_hdl_mgdl,colesterol_ldl_mgdl,glicemia_jejum_mgdl,frequencia_cardiaca_bpm,imc,tabagismo,atividade_fisica,historico_familiar_cardiaco,sintomas_relatados,diagnostico_doenca_cardiaca
+PAC0001,24,F,110,66,166,28,123,86,70,25.6,Sim,Leve,Sim,Falta de ar,Positivo
+PAC0002,73,M,122,70,203,34,146,85,90,26.6,Ex-fumante,Moderada,Sim,Nenhum,Positivo
+PAC0003,65,M,136,90,203,26,164,80,86,29.1,Não,Sedentário,Sim,Palpitações,Positivo
+PAC0004,49,M,142,80,204,50,121,80,75,40.3,Não,Leve,Sim,Nenhum,Positivo
+PAC0005,49,F,125,70,190,37,122,92,70,29.8,Não,Moderada,Não,Nenhum,Negativo
+PAC0006,79,M,134,81,226,45,147,71,70,22.8,Não,Intensa,Não,Nenhum,Negativo
+PAC0007,24,F,123,70,150,58,60,92,79,30.4,Ex-fumante,Moderada,Sim,Fadiga,Negativo
+PAC0008,68,F,134,74,191,42,130,74,85,25.9,Não,Sedentário,Não,Palpitações,Positivo
+PAC0009,32,M,115,73,190,53,125,67,65,23.8,Não,Leve,Não,Falta de ar,Negativo
+PAC0010,24,F,118,63,198,46,115,96,79,31.6,Não,Sedentário,Não,Nenhum,Negativo
+PAC0011,55,M,125,76,158,58,76,90,57,27.6,Ex-fumante,Sedentário,Não,Nenhum,Negativo
+PAC0012,88,F,124,91,199,56,131,96,77,27.3,Não,Moderada,Não,Falta de ar,Positivo
+PAC0013,70,M,131,79,220,42,141,119,83,26.1,Ex-fumante,Moderada,Não,Nenhum,Negativo
+PAC0014,72,F,116,75,221,43,139,92,72,27.5,Sim,Moderada,Sim,Fadiga,Positivo
+PAC0015,69,M,120,73,199,63,113,95,95,27.9,Ex-fumante,Moderada,Não,Palpitações,Positivo
+PAC0016,74,M,130,71,181,55,93,65,65,17.3,Não,Moderada,Não,Dor no peito,Positivo
+PAC0017,54,F,129,73,195,29,155,70,77,29.0,Sim,Moderada,Não,Palpitações,Positivo
+PAC0018,27,F,120,66,170,58,100,107,79,23.1,Não,Sedentário,Não,Fadiga,Negativo
+PAC0019,78,F,122,81,187,37,132,67,78,21.0,Não,Sedentário,Não,Dor no peito,Positivo
+PAC0020,50,M,109,62,195,62,104,70,74,25.7,Sim,Leve,Não,Falta de ar,Negativo
+PAC0021,54,M,118,79,186,62,110,86,76,26.4,Não,Moderada,Não,Fadiga,Negativo
+PAC0022,44,M,116,69,162,53,98,83,88,24.4,Ex-fumante,Sedentário,Não,Nenhum,Negativo
+PAC0023,31,F,115,74,185,52,103,77,90,29.7,Não,Leve,Não,Tontura,Negativo
+PAC0024,84,M,134,69,253,47,173,75,75,20.0,Não,Moderada,Não,Nenhum,Negativo
+PAC0025,74,M,124,84,160,58,70,104,88,25.7,Não,Sedentário,Sim,Falta de ar,Positivo
+PAC0026,64,F,124,81,193,46,114,71,67,23.4,Não,Leve,Não,Palpitações,Negativo
+PAC0027,46,F,109,78,163,53,76,65,83,25.8,Ex-fumante,Moderada,Sim,Falta de ar,Negativo
+PAC0028,77,M,132,68,211,60,123,102,67,27.3,Não,Moderada,Sim,Dor no peito,Negativo
+PAC0029,57,F,118,78,198,39,134,90,91,23.0,Sim,Sedentário,Não,Falta de ar,Positivo
+PAC0030,49,M,115,76,200,43,122,80,99,29.3,Ex-fumante,Moderada,Não,Nenhum,Negativo
+PAC0031,50,F,118,64,207,36,151,65,78,27.8,Ex-fumante,Sedentário,Sim,Nenhum,Negativo
+PAC0032,34,M,104,67,165,37,116,66,51,17.5,Não,Moderada,Sim,Nenhum,Negativo
+PAC0033,24,F,101,68,179,28,119,77,73,18.7,Ex-fumante,Sedentário,Sim,Falta de ar,Positivo
+PAC0034,57,F,135,77,153,54,81,103,89,25.9,Sim,Leve,Não,Dor no peito,Positivo
+PAC0035,81,F,128,78,230,72,119,69,81,25.0,Ex-fumante,Leve,Não,Nenhum,Negativo
+PAC0036,22,M,107,71,173,67,84,86,82,27.0,Não,Sedentário,Sim,Tontura,Positivo
+PAC0037,79,F,112,86,220,30,155,96,86,25.9,Não,Moderada,Sim,Nenhum,Negativo
+PAC0038,77,M,123,85,191,54,126,65,84,28.5,Sim,Sedentário,Não,Dor no peito,Positivo
+PAC0039,37,M,116,56,164,67,68,108,92,31.8,Ex-fumante,Sedentário,Sim,Dor no peito,Negativo
+PAC0040,63,F,115,72,203,40,140,65,89,22.5,Sim,Sedentário,Não,Nenhum,Positivo
+PAC0041,29,M,118,67,162,51,88,85,92,20.7,Não,Moderada,Não,Palpitações,Negativo
+PAC0042,72,F,121,64,209,21,171,84,79,21.1,Sim,Moderada,Não,Dor no peito,Positivo
+PAC0043,68,F,136,77,215,53,123,104,85,27.3,Não,Intensa,Sim,Nenhum,Positivo
+PAC0044,43,M,122,82,150,37,92,102,76,33.1,Não,Sedentário,Não,Fadiga,Negativo
+PAC0045,22,F,107,61,182,52,95,65,68,24.1,Ex-fumante,Leve,Sim,Palpitações,Negativo
+PAC0046,87,M,123,77,192,31,139,65,98,16.2,Não,Sedentário,Não,Palpitações,Positivo
+PAC0047,50,F,112,64,183,52,120,80,77,18.3,Sim,Leve,Não,Tontura,Negativo
+PAC0048,82,M,140,72,182,58,88,79,84,22.3,Sim,Intensa,Não,Fadiga,Positivo
+PAC0049,66,F,103,83,213,36,162,91,76,23.5,Sim,Moderada,Não,Nenhum,Positivo
+PAC0050,74,M,109,73,145,36,91,96,69,24.2,Não,Leve,Sim,Falta de ar,Negativo
+PAC0051,72,M,122,79,208,24,149,95,75,26.2,Ex-fumante,Leve,Não,Falta de ar,Positivo
+PAC0052,32,M,111,58,139,47,56,81,91,24.6,Não,Intensa,Não,Nenhum,Negativo
+PAC0053,44,F,125,85,184,43,104,65,81,30.7,Ex-fumante,Leve,Sim,Nenhum,Negativo
+PAC0054,51,F,121,76,193,27,144,78,60,24.5,Sim,Sedentário,Não,Nenhum,Negativo
+PAC0055,53,F,113,71,202,55,115,88,73,22.1,Ex-fumante,Leve,Não,Falta de ar,Negativo
+PAC0056,21,F,119,73,165,45,101,74,99,29.7,Ex-fumante,Sedentário,Não,Palpitações,Negativo
+PAC0057,57,F,125,63,165,37,96,90,77,20.6,Não,Sedentário,Não,Palpitações,Negativo
+PAC0058,29,F,115,78,162,43,94,103,59,29.3,Não,Sedentário,Não,Nenhum,Negativo
+PAC0059,71,M,134,74,220,63,146,89,96,26.5,Ex-fumante,Leve,Não,Nenhum,Negativo
+PAC0060,67,F,126,74,216,53,141,65,83,25.3,Sim,Leve,Sim,Dor no peito,Positivo
+PAC0061,84,F,133,78,204,48,132,76,78,34.6,Não,Sedentário,Não,Dor no peito,Positivo
+PAC0062,71,M,129,71,201,53,131,111,71,23.2,Sim,Leve,Sim,Fadiga,Positivo
+PAC0063,44,M,125,80,157,36,100,88,87,35.3,Não,Intensa,Não,Tontura,Negativo
+PAC0064,87,F,130,80,210,50,135,65,69,25.0,Não,Moderada,Não,Fadiga,Negativo
+PAC0065,47,M,124,74,137,52,74,98,88,20.3,Não,Leve,Não,Tontura,Negativo
+PAC0066,41,F,97,72,193,44,135,88,85,27.8,Ex-fumante,Sedentário,Sim,Fadiga,Negativo
+PAC0067,83,M,115,79,213,51,129,97,78,21.2,Sim,Moderada,Sim,Dor no peito,Positivo
+PAC0068,44,M,105,69,223,41,162,88,81,24.1,Não,Sedentário,Não,Nenhum,Negativo
+PAC0069,23,F,109,84,147,56,63,97,77,29.3,Não,Sedentário,Sim,Nenhum,Negativo
+PAC0070,51,M,119,65,183,57,100,94,87,28.5,Não,Intensa,Sim,Nenhum,Negativo
+PAC0071,75,M,113,83,229,20,183,93,65,23.2,Não,Leve,Não,Nenhum,Negativo
+PAC0072,31,F,107,80,199,64,113,125,57,30.4,Ex-fumante,Moderada,Não,Nenhum,Negativo
+PAC0073,51,F,116,70,174,20,130,106,82,31.2,Não,Leve,Não,Fadiga,Negativo
+PAC0074,27,M,135,85,195,38,123,70,82,32.5,Sim,Moderada,Não,Nenhum,Positivo
+PAC0075,67,M,142,83,196,62,96,97,84,29.9,Não,Sedentário,Não,Fadiga,Negativo
+PAC0076,52,F,122,82,212,42,153,112,83,33.6,Sim,Sedentário,Não,Palpitações,Negativo
+PAC0077,41,F,107,69,153,32,91,96,75,19.0,Ex-fumante,Sedentário,Não,Falta de ar,Negativo
+PAC0078,34,F,104,69,170,37,94,80,88,26.1,Não,Sedentário,Não,Falta de ar,Positivo
+PAC0079,58,M,103,71,164,58,96,99,74,22.1,Sim,Moderada,Não,Nenhum,Positivo
+PAC0080,66,M,125,78,211,22,156,102,74,28.0,Sim,Sedentário,Não,Falta de ar,Positivo
+PAC0081,85,M,120,86,208,64,120,122,72,23.4,Não,Leve,Não,Nenhum,Positivo
+PAC0082,49,M,117,74,175,49,87,74,97,25.3,Ex-fumante,Moderada,Não,Fadiga,Negativo
+PAC0083,29,F,105,68,146,36,83,88,56,34.5,Não,Moderada,Não,Nenhum,Negativo
+PAC0084,77,M,121,82,216,43,138,81,80,25.2,Não,Leve,Não,Nenhum,Negativo
+PAC0085,63,F,126,81,199,38,147,81,57,27.9,Não,Leve,Sim,Palpitações,Positivo
+PAC0086,68,F,127,79,176,60,102,72,74,25.0,Não,Intensa,Sim,Falta de ar,Negativo
+PAC0087,25,F,113,74,176,54,85,65,70,26.3,Sim,Moderada,Não,Dor no peito,Negativo
+PAC0088,40,M,104,70,145,29,91,80,52,26.0,Ex-fumante,Moderada,Sim,Falta de ar,Negativo
+PAC0089,73,F,135,72,177,45,106,94,79,28.0,Não,Intensa,Não,Nenhum,Negativo
+PAC0090,77,F,126,74,193,40,138,84,71,31.2,Não,Moderada,Não,Falta de ar,Negativo
+PAC0091,49,F,130,66,216,66,134,125,56,34.9,Não,Sedentário,Não,Nenhum,Negativo
+PAC0092,75,M,128,79,185,34,117,88,84,27.4,Não,Leve,Sim,Nenhum,Negativo
+PAC0093,78,M,120,78,216,69,128,110,95,30.2,Ex-fumante,Sedentário,Não,Nenhum,Positivo
+PAC0094,45,F,110,67,176,45,104,84,91,20.8,Sim,Moderada,Não,Nenhum,Negativo
+PAC0095,82,M,132,60,205,36,150,98,79,25.6,Não,Intensa,Sim,Nenhum,Negativo
+PAC0096,38,M,122,65,176,42,117,95,76,30.2,Não,Leve,Sim,Dor no peito,Negativo
+PAC0097,35,M,115,79,194,40,140,111,90,29.9,Não,Leve,Sim,Nenhum,Negativo
+PAC0098,67,F,139,72,199,30,132,90,98,28.5,Sim,Sedentário,Sim,Nenhum,Positivo
+PAC0099,63,F,134,79,177,47,92,98,87,30.0,Sim,Intensa,Sim,Dor no peito,Positivo
+PAC0100,28,M,112,63,145,35,97,96,69,29.7,Não,Sedentário,Não,Nenhum,Negativo
+PAC0101,77,F,139,88,195,24,151,89,81,32.9,Não,Sedentário,Não,Falta de ar,Positivo
+PAC0102,32,M,130,70,149,45,78,95,84,28.8,Não,Sedentário,Sim,Fadiga,Positivo
+PAC0103,75,F,143,78,204,28,155,120,59,25.9,Não,Sedentário,Sim,Dor no peito,Positivo
+PAC0104,18,F,98,83,154,41,82,84,80,27.5,Não,Leve,Sim,Fadiga,Negativo
+PAC0105,75,M,112,82,232,39,176,81,100,16.0,Não,Leve,Não,Nenhum,Positivo
+PAC0106,74,M,141,76,165,40,114,108,86,29.2,Não,Sedentário,Não,Nenhum,Negativo
+PAC0107,74,M,110,69,188,74,94,92,95,16.0,Não,Sedentário,Não,Palpitações,Negativo
+PAC0108,65,F,108,71,160,51,82,79,81,19.7,Não,Sedentário,Sim,Palpitações,Positivo
+PAC0109,51,F,116,77,174,53,106,65,74,28.0,Não,Leve,Sim,Tontura,Negativo
+PAC0110,68,F,131,76,214,24,156,98,83,29.6,Sim,Sedentário,Não,Nenhum,Positivo
+PAC0111,37,F,109,66,121,42,69,65,66,20.8,Não,Moderada,Sim,Palpitações,Negativo
+PAC0112,74,M,120,85,198,53,133,106,68,24.3,Não,Sedentário,Sim,Nenhum,Positivo
+PAC0113,58,F,122,76,233,38,170,97,93,33.7,Não,Sedentário,Sim,Nenhum,Positivo
+PAC0114,51,M,111,86,170,61,84,99,90,23.8,Não,Leve,Não,Nenhum,Negativo
+PAC0115,54,M,121,78,201,36,147,84,64,36.1,Não,Leve,Não,Fadiga,Negativo
+PAC0116,58,F,141,85,208,47,144,65,90,27.5,Não,Sedentário,Não,Nenhum,Positivo
+PAC0117,20,F,113,72,164,43,109,94,78,29.3,Não,Sedentário,Não,Tontura,Negativo
+PAC0118,28,M,124,78,165,52,84,94,79,33.3,Não,Moderada,Sim,Falta de ar,Negativo
+PAC0119,35,F,111,67,129,42,66,81,84,28.1,Não,Sedentário,Não,Palpitações,Negativo
+PAC0120,26,F,105,62,174,47,114,82,86,21.5,Não,Leve,Sim,Palpitações,Negativo
+PAC0121,49,F,112,75,178,47,110,127,76,25.5,Não,Leve,Não,Tontura,Negativo
+PAC0122,66,F,104,82,172,41,93,100,95,27.3,Não,Sedentário,Não,Nenhum,Positivo
+PAC0123,65,M,108,73,185,56,112,95,78,19.9,Não,Leve,Não,Nenhum,Negativo
+PAC0124,51,M,103,65,169,53,80,97,82,24.8,Não,Moderada,Não,Falta de ar,Negativo
+PAC0125,79,M,108,68,184,49,118,105,66,22.7,Não,Moderada,Sim,Nenhum,Negativo
+PAC0126,58,F,116,68,205,45,145,90,103,31.7,Não,Sedentário,Não,Nenhum,Negativo
+PAC0127,23,F,121,59,140,60,63,65,84,27.7,Ex-fumante,Sedentário,Não,Nenhum,Negativo
+PAC0128,73,M,126,77,216,47,150,83,87,26.2,Ex-fumante,Sedentário,Não,Nenhum,Negativo
+PAC0129,59,M,131,81,158,46,99,98,57,25.5,Não,Leve,Não,Nenhum,Negativo
+PAC0130,63,M,127,75,177,51,99,73,66,27.0,Não,Moderada,Sim,Nenhum,Negativo
+PAC0131,58,F,131,62,230,70,140,88,93,30.3,Não,Sedentário,Não,Fadiga,Positivo
+PAC0132,57,F,111,72,204,34,139,72,82,23.0,Não,Sedentário,Não,Nenhum,Negativo
+PAC0133,24,M,110,66,162,59,79,103,54,21.3,Ex-fumante,Intensa,Não,Fadiga,Negativo
+PAC0134,58,M,132,89,175,27,125,104,90,32.5,Não,Sedentário,Sim,Fadiga,Positivo
+PAC0135,75,F,121,67,198,48,126,94,69,24.1,Sim,Leve,Não,Nenhum,Positivo
+PAC0136,39,M,114,66,183,64,105,88,91,19.6,Sim,Moderada,Não,Palpitações,Negativo
+PAC0137,61,F,129,86,193,56,106,89,78,29.5,Ex-fumante,Sedentário,Não,Falta de ar,Negativo
+PAC0138,20,M,106,73,181,48,120,93,81,29.6,Sim,Sedentário,Sim,Falta de ar,Positivo
+PAC0139,43,M,103,73,170,43,96,65,92,20.6,Não,Sedentário,Sim,Nenhum,Negativo
+PAC0140,49,F,109,74,178,50,89,65,65,27.0,Não,Intensa,Não,Nenhum,Negativo
+PAC0141,88,M,136,82,196,42,122,94,68,30.8,Sim,Sedentário,Sim,Nenhum,Positivo
+PAC0142,33,M,118,76,165,41,101,94,77,29.2,Não,Sedentário,Não,Falta de ar,Negativo
+PAC0143,37,M,111,68,197,47,131,109,88,30.3,Não,Sedentário,Não,Fadiga,Negativo
+PAC0144,47,M,114,76,161,48,77,104,64,21.2,Sim,Sedentário,Sim,Falta de ar,Positivo
+PAC0145,89,M,138,71,203,41,145,111,57,27.5,Ex-fumante,Leve,Sim,Palpitações,Positivo
+PAC0146,79,M,133,79,182,40,118,71,88,26.1,Ex-fumante,Sedentário,Não,Fadiga,Positivo
+PAC0147,20,M,118,69,163,34,96,78,68,23.8,Não,Leve,Sim,Falta de ar,Negativo
+PAC0148,34,M,126,68,184,50,97,98,71,29.9,Sim,Leve,Não,Nenhum,Negativo
+PAC0149,77,F,125,79,235,57,141,131,55,32.7,Não,Moderada,Não,Tontura,Positivo
+PAC0150,22,F,130,69,201,48,141,119,72,35.6,Sim,Sedentário,Não,Nenhum,Positivo
+PAC0151,79,M,129,73,179,62,81,109,75,31.9,Não,Moderada,Não,Nenhum,Negativo
+PAC0152,38,M,122,69,187,51,123,80,85,25.5,Ex-fumante,Leve,Não,Dor no peito,Negativo
+PAC0153,84,F,133,73,190,55,108,76,71,29.1,Ex-fumante,Sedentário,Não,Fadiga,Negativo
+PAC0154,39,F,114,75,167,54,76,102,93,29.5,Não,Moderada,Sim,Nenhum,Negativo
+PAC0155,49,F,104,66,187,49,109,70,67,26.5,Não,Moderada,Não,Dor no peito,Negativo
+PAC0156,65,M,124,80,183,44,101,85,71,28.1,Não,Sedentário,Não,Nenhum,Negativo
+PAC0157,27,M,101,64,190,77,93,88,92,29.7,Não,Intensa,Não,Nenhum,Negativo
+PAC0158,58,M,129,71,170,45,106,110,77,25.7,Não,Leve,Não,Nenhum,Negativo
+PAC0159,54,M,129,68,167,42,106,77,69,22.7,Não,Leve,Não,Palpitações,Negativo
+PAC0160,74,F,119,84,195,51,124,65,73,24.1,Sim,Intensa,Sim,Tontura,Positivo
+PAC0161,89,M,137,82,197,53,114,97,90,28.9,Não,Leve,Sim,Nenhum,Negativo
+PAC0162,65,M,118,74,212,33,156,76,91,26.0,Não,Moderada,Sim,Nenhum,Positivo
+PAC0163,47,M,115,77,211,59,120,90,70,29.0,Sim,Sedentário,Não,Nenhum,Negativo
+PAC0164,47,F,126,61,232,44,166,88,75,29.0,Sim,Moderada,Sim,Nenhum,Positivo
+PAC0165,48,M,116,72,223,37,167,80,76,24.3,Ex-fumante,Leve,Não,Falta de ar,Negativo
+PAC0166,76,F,145,91,182,64,103,103,68,30.9,Ex-fumante,Sedentário,Sim,Falta de ar,Positivo
+PAC0167,41,M,113,73,179,58,95,65,74,27.7,Não,Leve,Sim,Falta de ar,Negativo
+PAC0168,30,F,116,69,141,35,70,74,79,21.9,Ex-fumante,Sedentário,Não,Nenhum,Negativo
+PAC0169,42,M,123,78,170,71,64,105,92,34.0,Ex-fumante,Sedentário,Não,Falta de ar,Negativo
+PAC0170,19,F,113,73,164,53,94,76,92,25.2,Sim,Sedentário,Não,Nenhum,Negativo
+PAC0171,25,F,101,55,138,50,64,65,75,20.1,Não,Sedentário,Não,Nenhum,Negativo
+PAC0172,24,F,106,58,141,69,41,93,77,22.8,Não,Sedentário,Não,Fadiga,Negativo
+PAC0173,73,F,123,76,203,47,128,100,86,22.9,Sim,Sedentário,Sim,Palpitações,Positivo
+PAC0174,70,F,119,72,169,50,107,86,69,26.2,Não,Moderada,Não,Fadiga,Negativo
+PAC0175,68,F,129,83,207,42,138,65,81,24.8,Não,Moderada,Sim,Fadiga,Positivo
+PAC0176,51,F,123,71,162,57,94,95,74,24.5,Não,Moderada,Não,Falta de ar,Negativo
+PAC0177,69,M,133,66,269,51,205,66,68,30.3,Sim,Sedentário,Não,Fadiga,Positivo
+PAC0178,29,F,124,63,161,50,82,92,64,27.5,Não,Moderada,Não,Dor no peito,Negativo
+PAC0179,82,F,142,62,204,41,150,74,91,27.4,Ex-fumante,Leve,Sim,Nenhum,Positivo
+PAC0180,54,F,119,73,177,47,110,72,77,29.3,Sim,Sedentário,Sim,Nenhum,Positivo
+PAC0181,85,M,137,79,241,49,165,84,97,30.3,Não,Sedentário,Sim,Nenhum,Positivo
+PAC0182,28,M,98,63,179,34,116,73,69,16.5,Não,Moderada,Não,Nenhum,Negativo
+PAC0183,53,F,119,80,189,32,134,76,82,25.9,Não,Sedentário,Não,Nenhum,Negativo
+PAC0184,68,M,112,79,153,57,84,84,101,16.2,Não,Leve,Não,Palpitações,Negativo
+PAC0185,53,M,132,72,187,20,134,80,63,26.2,Não,Intensa,Sim,Palpitações,Negativo
+PAC0186,50,M,122,61,176,48,90,102,58,27.5,Sim,Sedentário,Não,Falta de ar,Negativo
+PAC0187,29,M,114,76,205,44,125,97,93,32.2,Não,Sedentário,Sim,Nenhum,Negativo
+PAC0188,45,M,130,78,201,66,103,81,66,31.3,Ex-fumante,Intensa,Não,Palpitações,Negativo
+PAC0189,35,M,96,73,175,44,109,74,75,26.9,Não,Leve,Não,Nenhum,Negativo
+PAC0190,39,M,98,77,125,58,40,65,73,25.2,Não,Sedentário,Sim,Nenhum,Negativo
+PAC0191,67,M,132,69,174,45,105,93,78,28.2,Não,Moderada,Não,Nenhum,Negativo
+PAC0192,63,M,121,86,200,51,135,78,65,23.6,Não,Moderada,Sim,Nenhum,Positivo
+PAC0193,61,F,124,69,227,54,138,65,73,26.0,Sim,Leve,Não,Nenhum,Positivo
+PAC0194,44,M,109,78,205,44,142,83,80,30.4,Não,Leve,Não,Palpitações,Negativo
+PAC0195,87,F,130,68,170,62,70,71,68,25.0,Não,Sedentário,Sim,Palpitações,Positivo
+PAC0196,24,F,129,65,178,38,119,115,71,31.1,Não,Sedentário,Não,Falta de ar,Negativo
+PAC0197,42,M,124,82,200,54,110,65,71,29.0,Ex-fumante,Leve,Não,Nenhum,Negativo
+PAC0198,26,M,109,67,130,61,43,65,63,23.2,Não,Sedentário,Não,Palpitações,Negativo
+PAC0199,42,F,116,78,182,58,100,108,70,30.4,Não,Moderada,Não,Falta de ar,Negativo
+PAC0200,87,F,131,81,213,73,122,110,76,29.1,Ex-fumante,Moderada,Não,Nenhum,Negativo
+PAC0201,44,F,101,72,174,41,98,77,75,28.0,Não,Sedentário,Não,Falta de ar,Negativo
+PAC0202,83,F,129,85,160,33,116,73,72,22.6,Ex-fumante,Leve,Não,Dor no peito,Negativo
+PAC0203,53,F,124,71,174,38,112,93,79,23.6,Não,Sedentário,Não,Dor no peito,Negativo
+PAC0204,68,F,110,64,183,58,104,65,68,23.6,Ex-fumante,Moderada,Sim,Nenhum,Positivo
+PAC0205,50,M,116,70,183,56,101,65,87,29.9,Não,Sedentário,Sim,Dor no peito,Positivo
+PAC0206,37,F,101,73,157,51,89,77,91,21.7,Não,Leve,Não,Nenhum,Negativo
+PAC0207,73,M,120,80,189,37,123,112,70,28.0,Não,Leve,Sim,Nenhum,Negativo
+PAC0208,87,F,127,67,211,55,135,73,80,20.4,Sim,Leve,Sim,Nenhum,Negativo
+PAC0209,36,F,96,66,181,35,131,87,72,25.1,Não,Moderada,Sim,Fadiga,Negativo
+PAC0210,74,M,132,73,190,64,111,104,79,26.5,Ex-fumante,Moderada,Não,Nenhum,Negativo
+PAC0211,36,F,128,73,178,84,64,130,92,37.0,Não,Leve,Sim,Nenhum,Negativo
+PAC0212,69,M,118,65,202,50,135,71,81,19.8,Sim,Moderada,Não,Nenhum,Negativo
+PAC0213,74,F,112,75,165,57,89,93,55,32.6,Não,Intensa,Não,Tontura,Positivo
+PAC0214,50,M,111,69,192,44,120,114,80,26.7,Não,Leve,Não,Falta de ar,Negativo
+PAC0215,71,F,137,81,211,24,168,65,89,27.9,Sim,Leve,Sim,Fadiga,Positivo
+PAC0216,37,M,93,77,177,43,113,104,77,28.0,Ex-fumante,Sedentário,Não,Nenhum,Negativo
+PAC0217,23,F,108,69,187,37,133,73,86,28.0,Não,Moderada,Não,Nenhum,Negativo
+PAC0218,24,F,99,66,126,33,73,87,67,25.3,Não,Leve,Não,Falta de ar,Negativo
+PAC0219,50,F,130,76,150,71,49,90,59,32.5,Não,Leve,Não,Nenhum,Negativo
+PAC0220,82,F,124,73,220,49,145,71,81,25.4,Sim,Sedentário,Sim,Palpitações,Positivo
+PAC0221,27,F,118,65,173,55,79,77,56,31.1,Não,Moderada,Não,Tontura,Negativo
+PAC0222,50,F,121,66,181,46,102,87,72,23.1,Não,Leve,Sim,Dor no peito,Positivo
+PAC0223,68,M,139,72,182,48,124,101,89,25.7,Não,Moderada,Não,Fadiga,Negativo
+PAC0224,32,F,108,62,180,62,97,81,58,22.7,Ex-fumante,Sedentário,Não,Falta de ar,Negativo
+PAC0225,69,M,130,78,214,50,146,89,61,28.0,Não,Intensa,Sim,Nenhum,Positivo
+PAC0226,40,F,109,79,194,56,111,103,68,34.0,Não,Sedentário,Não,Dor no peito,Positivo
+PAC0227,76,M,138,68,193,48,128,73,78,27.2,Não,Sedentário,Sim,Nenhum,Positivo
+PAC0228,59,F,115,74,143,46,59,96,71,25.1,Ex-fumante,Moderada,Não,Palpitações,Negativo
+PAC0229,57,F,112,71,195,33,144,93,90,21.0,Não,Intensa,Não,Nenhum,Positivo
+PAC0230,30,M,112,72,194,26,143,126,89,26.5,Ex-fumante,Sedentário,Sim,Nenhum,Negativo
+PAC0231,51,F,100,70,186,47,126,73,80,18.8,Não,Leve,Sim,Falta de ar,Negativo
+PAC0232,79,F,127,67,176,51,88,75,77,21.9,Ex-fumante,Moderada,Não,Nenhum,Negativo
+PAC0233,19,F,116,61,192,30,125,99,79,27.0,Sim,Moderada,Sim,Nenhum,Positivo
+PAC0234,72,F,133,79,219,50,136,105,66,31.9,Não,Leve,Não,Falta de ar,Negativo
+PAC0235,53,F,117,85,229,51,158,92,84,38.6,Não,Leve,Não,Nenhum,Negativo
+PAC0236,69,F,122,61,172,24,137,77,63,23.4,Não,Moderada,Não,Dor no peito,Negativo
+PAC0237,65,M,135,80,193,39,123,101,84,32.5,Não,Moderada,Sim,Nenhum,Positivo
+PAC0238,49,M,104,80,197,55,120,75,88,27.1,Ex-fumante,Moderada,Não,Nenhum,Negativo
+PAC0239,40,M,106,70,176,55,82,79,77,25.3,Ex-fumante,Leve,Não,Nenhum,Negativo
+PAC0240,63,F,133,80,171,36,105,91,77,29.4,Não,Sedentário,Sim,Palpitações,Positivo
+PAC0241,28,M,113,66,177,52,99,101,79,26.3,Não,Intensa,Não,Fadiga,Negativo
+PAC0242,60,F,125,74,199,62,98,78,45,26.5,Não,Moderada,Sim,Nenhum,Positivo
+PAC0243,24,F,123,59,165,59,72,65,78,24.2,Não,Moderada,Não,Fadiga,Negativo
+PAC0244,64,M,123,59,203,44,136,65,78,21.2,Sim,Sedentário,Não,Falta de ar,Positivo
+PAC0245,63,F,124,78,192,40,142,65,78,20.6,Sim,Sedentário,Não,Falta de ar,Positivo
+PAC0246,24,F,133,64,199,42,145,70,83,28.9,Não,Moderada,Não,Palpitações,Negativo
+PAC0247,72,M,125,74,177,56,98,84,78,26.3,Não,Sedentário,Sim,Palpitações,Positivo
+PAC0248,47,M,109,63,164,52,86,65,62,23.3,Ex-fumante,Intensa,Sim,Palpitações,Negativo
+PAC0249,74,M,130,68,196,58,128,76,73,26.0,Não,Leve,Sim,Dor no peito,Positivo
+PAC0250,20,M,114,69,185,52,120,78,76,29.6,Ex-fumante,Moderada,Não,Dor no peito,Negativo
