@@ -37,7 +37,7 @@ cardioia-fase1/
 ## Parte 1 — Dados Numéricos (IoT)
 
 **Arquivo:** `data/pacientes_cardiacos_simulado.csv`
-**Link para os dados completos (Drive/OneDrive):** [preencher após upload]
+**Link para os dados completos (Drive/OneDrive):** [https://drive.google.com/drive/folders/1c0G793aUDAYeJUm9J2KieNyWy-axbolC?usp=drive_link]
 
 ### Origem dos dados
 Os dados são **100% simulados**, gerados pelo script `scripts/gerar_dados_numericos.py`
@@ -93,7 +93,6 @@ retomada nas fases de Machine Learning do projeto.
 ## Parte 2 — Dados Textuais (NLP)
 
 **Local:** `docs/`
-**Guia completo de fontes e links de download:** [`docs/fontes_textos.md`](docs/fontes_textos.md)
 
 Dois textos foram selecionados, ambos com licenciamento que permite
 redistribuição:
